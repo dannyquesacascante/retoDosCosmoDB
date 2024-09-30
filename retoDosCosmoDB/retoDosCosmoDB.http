@@ -1,0 +1,6 @@
+@retoDosCosmoDB_HostAddress = http://localhost:5076
+
+GET {{retoDosCosmoDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
